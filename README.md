@@ -106,7 +106,7 @@ const pekemonTypes = [
 **For this assignment, you will be provided with a front-end codebase. But feel free to make your own and create your first full-stack web.*
 ## Marking Guide
 ### Demo
-Have a look at the [demo]() website
+Have a look at the [demo](https://coderdex-cs-fe.vercel.app) website
 
 ### Marking Guide
 Everyone will start at 100 scores.
